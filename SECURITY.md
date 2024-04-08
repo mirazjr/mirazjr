@@ -7,10 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :bule_check_mark:  |
-| 5.0.x   | :x:                |
-| 4.0.x   | :red_check_mark:   |
-| < 4.0   | :x:                |
+| all | ✅_check_mark:         | 
 
 ## Reporting a Vulnerability
 
